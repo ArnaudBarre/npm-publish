@@ -1,10 +1,10 @@
 {
   "name": "npm-publish",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "license": "MIT",
   "author": "Arnaud Barré (https://github.com/ArnaudBarre)",
   "private": true,
   "devDependencies": {
-    "prettier": "^2.5.1"
+    "prettier": "^2.7.1"
   }
 }

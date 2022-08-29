@@ -13,4 +13,5 @@ steps:
   - uses: ArnaudBarre/npm-publish@v1
     with:
       npm-token: ${{ secrets.NPM_TOKEN }}
+      # working-directory: dist
 ```
