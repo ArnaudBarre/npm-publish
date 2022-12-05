@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.3.0
+
+Always use --access public
+
 ## 1.2.0
 
 Bump actions/setup-node to v3
